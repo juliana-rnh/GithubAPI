@@ -1,4 +1,5 @@
-# Teste Automatizado de BackEnd com Cypress consumindo a API do Github
+# Desafio QA - Nexdom
+## Teste Automatizado de BackEnd com Cypress consumindo a API do Github
 
 Este projeto contém testes automatizados para a API do GitHub utilizando **Cypress**. Ele cobre as seguintes ações:
 
