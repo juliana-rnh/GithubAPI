@@ -14,6 +14,7 @@ Este projeto contém testes automatizados para a API do GitHub utilizando **Cypr
 - **Cypress** - Framework de testes
 - **Node.js** - Ambiente de execução
 - **GitHub API** - Testes automatizados na API do GitHub
+- **Cucumber** - Para escrita dos cenários em Gherkin
 
 
 ## Pré-requisitos
