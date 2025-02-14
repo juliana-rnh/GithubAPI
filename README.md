@@ -2,12 +2,12 @@
 
 Este projeto contém testes automatizados para a API do GitHub utilizando **Cypress**. Ele cobre as seguintes ações:
 
-▪ Criação de um repositório no github;
-▪ Consulta do repositório criado;
-▪ Criação de uma issue no repositório recém-criado;
-▪ Consulta da issue;
-▪ Exclusão do repositório;
-▪ Consultar se o repositório foi eliminado
+- Criação de um repositório no github;
+- Consulta do repositório criado;
+- Criação de uma issue no repositório recém-criado;
+- Consulta da issue;
+- Exclusão do repositório;
+- Consultar se o repositório foi eliminado
 
 
 ## Tecnologias Utilizadas
