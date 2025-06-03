@@ -45,7 +45,7 @@ npm install dotenv --save
    - `delete_repo` → **Delete repositories**
 4. Copie o token.
 
-Crie um arquivo `.env` no diretório do projeto e adicione:
+Crie um arquivo `.env` na raíz do diretório do projeto e adicione:
 
 ```
 GITHUB_TOKEN=seu_token
